@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application List</string>
+    <string name="hint_Eañol">Colmna1</string>
+    <string name="hint_Nahuatl">Columna2</string>
+</resources>
