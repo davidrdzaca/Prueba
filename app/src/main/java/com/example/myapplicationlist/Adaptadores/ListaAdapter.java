@@ -36,6 +36,7 @@ public class ListaAdapter extends RecyclerView.Adapter<ListaAdapter.ViewHolder> 
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
         holder.txt1.setText(lst.get(position).Columna1);
         holder.txt2.setText(lst.get(position).Columna2);
+        //13131231
     }
 
     @Override
