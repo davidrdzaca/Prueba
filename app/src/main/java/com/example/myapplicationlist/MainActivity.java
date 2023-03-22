@@ -71,6 +71,10 @@ public class MainActivity extends AppCompatActivity {
         LinearLayoutManager layoutManager= new LinearLayoutManager(this,LinearLayoutManager.HORIZONTAL, false);
         mRecyclerView = (RecyclerView) findViewById(R.id.recycler_view);
         mRecyclerView.setLayoutManager(layoutManager);
+
+
+
+
 */
 
         Field[] fields = Curso.class.getFields(); // returns inherited members but not private members.
